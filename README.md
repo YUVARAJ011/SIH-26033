@@ -66,4 +66,4 @@ The platform can generate revenue through small service fees, delivery charges, 
 - Articles and studies on digital agricultural marketplaces and farmer income improvement.
 
 
-![image alt]()
+![image alt](https://github.com/YUVARAJ011/SIH-26033/blob/2a027348607787016815cce5fce482da6cb41c55/Agricultural%20Research%20and%20Digital%20Marketplace.png)
